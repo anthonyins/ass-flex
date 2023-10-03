@@ -13,4 +13,8 @@ The Clarus Gallery project is a website designed to allow users to explore vario
 
 ### Demo
 
-[Clarus Gallery]()
+[Clarus Gallery](https://anthonyins.github.io/ass-flex/)
+
+### Note
+
+- Please remember to customize the images and texts according to your preferences.
