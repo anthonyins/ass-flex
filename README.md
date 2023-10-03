@@ -2,7 +2,7 @@
 
 ### Description:
 
-The Clarus Gallery project is a website designed to allow users to explore various art collections and exhibitions. This project incorporates important CSS features such as "flex," "position," "margin," and "padding." The primary goal is to create an attractive, user-friendly, and responsive web interface that enables users to seamlessly discover art collections, exhibitions, and related content.
+The Clarus Gallery project is an example of a website designed for users to explore various art collections and exhibitions. The primary goal of this project is to reinforce CSS features such as 'flex' ,'position', 'margin', and 'padding' while creating an attractive, user-friendly, and responsive web interface.
 
 ### Expected Outcome:
 
